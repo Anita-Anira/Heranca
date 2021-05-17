@@ -1,6 +1,6 @@
 package sample;
 
-public class Pessoa {
+public class Pessoa extends Object {
 
     String nome;
     String cpf;

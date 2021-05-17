@@ -1,4 +1,6 @@
 package sample;
 
-public class ServidorPublico {
+public class ServidorPublico extends Servidor {
+
+    String[] sigepe;
 }

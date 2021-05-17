@@ -1,4 +1,7 @@
 package sample;
 
-public class Servidor {
+public class Servidor  extends Pessoa{
+
+    double salario;
+    String ramal;
 }
